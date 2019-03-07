@@ -1,2 +1,2 @@
 import rules from '../src';
-export default
+export default rules;
