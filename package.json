@@ -1,0 +1,19 @@
+{
+  "name": "regexp-rules",
+  "version": "1.0.0",
+  "description": "常用正则表达式校验规则",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernAbby/regexp-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernAbby/regexp-rules/issues"
+  },
+  "homepage": "https://github.com/FernAbby/regexp-rules#readme"
+}
